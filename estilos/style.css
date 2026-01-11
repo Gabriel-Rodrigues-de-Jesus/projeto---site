@@ -14,6 +14,10 @@ h1{
     color: rgb(8, 0, 255);
  }
 
+img.lado{
+    float: right;
+}
+
 main{
     background-color: white;
     width: 500px;
